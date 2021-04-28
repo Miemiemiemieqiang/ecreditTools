@@ -1,0 +1,6 @@
+Var,Name,Type
+max_query_cnt_6h_2wk,近2周在6小时内查询的峰值次数,Integer
+id_query_cnt_B_3d,近3天身份证B类查询次数,Integer
+id_query_cnt_B_12h,近12小时身份证B类查询次数,Integer
+phone_query_cnt_B_3d,近3天手机号B类查询次数,Integer
+phone_query_cnt_B_24h,近24小时手机号B类查询次数,Integer

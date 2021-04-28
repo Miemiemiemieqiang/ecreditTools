@@ -1,0 +1,7 @@
+Var,Name,Type
+rule_phone_reject_apply_rate_0d,A,Integer
+rule_phone_reject_apply_rate_1h,B,Integer
+rule_id_reject_system_cnt_0d,C,Integer
+rule_phone_reject_system_cnt_0d,D,Integer
+rule_id_reject_system_cnt_1h,E,Integer
+rule_phone_reject_system_cnt_1h,F,String

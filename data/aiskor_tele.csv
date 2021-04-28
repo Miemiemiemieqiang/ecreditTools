@@ -1,0 +1,11 @@
+Var,Name,Type
+aisk_tel_score,aisk电信分,Double
+aisk_relate_1_90d,近1到90天的可联性,Double
+aisk_relate_1_60d,近1到60天的可联性,Double
+aisk_relate_1_30d,近1到30天的可联性,Double
+aisk_charge_amount_avg_181_360d,近181到360天的平均充值金额,Double
+aisk_charge_cnt_91_180d,近91到180天的充值次数,Integer
+aisk_charge_cnt_181_360d,近181到360天的充值次数,Integer
+aisk_charge_cnt_1_90d,近1到90天的充值次数,Integer
+aisk_charge_amount_avg_91_180d,近91到180天的平均充值金额,Double
+aisk_charge_amount_avg_1_90d,近1到90天的平均充值金额,Double
